@@ -1,0 +1,175 @@
+﻿ID_Num,Country,Region,IFM_Nigo,Step_Nego,Gov_Spending,Business_Freedom,Monetary_Freedom,Investment_Freedom,Population_Millions,GDP_Billions_PPP,Unemployment_Rate,Inflation_Rate,Public_Debt_rate_GDP
+1,Afghanistan,Asia-Pacific,0,Step4,80.3,49.2,76.7,10,35.5,69.6,8.8,5,7.3
+2,Albania,Europe,1,Step1,73.9,69.3,81.5,70,2.9,36,13.9,2,71.2
+3,Algeria,Middle East and North Africa,0,Step4,48.7,61.6,74.9,30,41.5,632.9,10,5.6,25.8
+4,Angola,Sub-Saharan Africa,0,Step4,80.7,55.7,55.4,30,28.2,190.3,8.2,31.7,65.3
+5,Argentina,Americas,0,Step2,49.5,56.4,60.2,55,44.1,920.2,8.7,25.7,52.6
+6,Armenia,Europe,1,Step2,,78.3,77.8,75,3,28.3,18.2,0.9,53.5
+7,Australia,Asia-Pacific,1,Step1,60.1,88.3,86.6,80,24.8,1246.5,5.6,2,41.6
+8,Austria,Europe,1,Step3,24.5,74.9,81.5,90,8.8,439.6,5.5,2.2,78.8
+9,Azerbaijan,Asia-Pacific,1,Step1,59.5,69.5,63,60,9.8,171.8,5,13,54.7
+10,Bahamas,Americas,1,Step1,86.8,68.5,78.1,50,0.4,11.6,12.6,1.4,57.2
+11,Bahrain,Middle East and North Africa,1,Step1,62.7,71.4,81.6,75,1.5,70.4,1.2,1.4,90.3
+12,Bangladesh,Asia-Pacific,0,Step4,94.5,50.9,69.9,45,163.2,687.1,4.4,5.7,32.4
+13,Barbados,Americas,1,Step1,65,69.8,78.3,70,0.3,5.2,9.7,4.4,132.9
+14,Belarus,Europe,0,Step1,41.3,75,67,30,9.5,178.9,0.5,6,51
+15,Belgium,Europe,1,Step2,15.2,78.1,76.1,85,11.4,528.5,7.4,2.2,103.2
+16,Belize,Americas,0,Step1,65.9,61.8,78.7,55,0.4,3.2,9.3,1.1,99
+17,Benin,Sub-Saharan Africa,0,Step1,83.4,62.4,86.4,70,11.1,25.3,2.5,0.1,54.6
+18,Bhutan,Asia-Pacific,1,Step3,71.6,68.7,72.6,20,0.8,7,2.4,3.4,102.4
+19,Bolivia,Americas,0,Step1,49.3,58.8,68.8,15,11.1,83.6,3.1,2.8,50.9
+20,Bosnia and Herzegovina,Europe,1,Step1,46.1,49.7,83.1,65,3.5,44.6,25.6,1.3,41
+21,Botswana,Sub-Saharan Africa,1,Step1,65.9,68.7,78.8,65,2.2,38.9,17.4,3.3,15.6
+22,Brazil,Americas,0,Step2,55.2,57.9,75.5,50,207.7,3240.3,13.3,3.4,84
+23,Brunei Darussalam,Asia-Pacific,1,Step2,59.9,80.2,76.5,65,0.4,33.5,7.1,-0.1,2.7
+24,Bulgaria,Europe,1,Step3,63.9,62.7,88,70,7.1,153.1,6.2,1.2,23.9
+25,Burkina Faso,Sub-Saharan Africa,0,Step1,80,51.6,86.2,65,18.9,35.8,6.3,0.4,38.3
+26,Burma,Asia-Pacific,0,Step2,85.4,52.8,69.6,30,52.6,328.7,0.8,5.1,34.7
+27,Burundi,Sub-Saharan Africa,0,Step3,83.3,50.3,62.2,50,10.9,8,1.6,16.6,56.7
+28,Cabo Verde,Sub-Saharan Africa,1,Step4,71.2,65.2,84.1,80,0.5,3.7,10.3,0.8,126
+29,Cambodia,Asia-Pacific,0,Step2,85.9,29.9,79.4,60,16,64.3,0.2,2.9,35.1
+30,Cameroon,Sub-Saharan Africa,0,Step4,87.5,44.4,84,30,24.3,88.9,4.2,0.6,33.8
+31,Canada,Americas,1,Step2,51.3,81.9,77.2,80,36.7,1769.3,6.3,1.6,89.7
+32,Central African Republic,Sub-Saharan Africa,0,Step1,94.2,24.2,72.3,45,5,3.4,6,3.8,53.4
+33,Chad,Sub-Saharan Africa,0,Step4,92.4,28.1,82.3,,12.2,28.6,5.9,-0.9,52.5
+34,Chile,Americas,1,Step1,81,76.6,84.5,85,18.4,451.1,7,2.2,23.6
+35,China,Asia-Pacific,0,Step4,70.1,56.2,71.9,25,1390.1,23159.1,4.7,1.6,47.8
+36,Colombia,Americas,1,Step2,75,71.4,,80,49.3,714,8.9,4.3,49.4
+37,Comoros,Sub-Saharan Africa,0,Step3,73.4,57.2,82.8,45,0.8,1.3,4.3,1,28.4
+38,"Congo, Democratic Republic of the Congo",Sub-Saharan Africa,0,Step3,93.9,53.2,49.1,30,86.7,68.5,3.7,41.5,15.7
+39,"Congo, Republic of",Sub-Saharan Africa,0,Step2,40.6,38.2,82.6,45,4.3,28.9,11,0.5,119.1
+40,Costa Rica,Americas,1,Step4,88.4,67.2,83.2,70,5,83.9,8.1,1.6,49.1
+41,Côte d'Ivoire,Sub-Saharan Africa,1,Step2,83.9,61,74.2,75,25,96.9,2.6,0.8,46.4
+42,Croatia,Europe,1,Step1,33.4,60.7,78.5,75,4.1,101.3,11.2,1.1,78.4
+43,Cuba,Americas,0,Step1,0,20,65.6,10,11.5,148,2.6,5.5,47.7
+44,Cyprus,Europe,1,Step2,55.2,76.9,84,75,0.9,31.6,11,0.7,99.3
+45,Czech Republic,Europe,1,Step2,52.1,72.4,81.5,80,10.6,375.7,2.9,2.4,34.7
+46,Denmark,Europe,1,Step2,14.4,90.7,84.1,90,5.7,286.8,5.7,1.1,36.4
+47,Djibouti,Sub-Saharan Africa,0,Step3,27.3,54.7,72.7,80,1,3.6,5.8,0.7,30.6
+48,Dominican Republic,Americas,1,Step4,90.3,51.9,79.7,70,10.2,172.4,5.5,3.3,37.7
+49,Ecuador,Americas,0,Step2,55.5,54.1,73.5,35,16.8,192.6,3.8,0.4,45
+50,Egypt,Middle East and North Africa,0,Step3,68.1,65.9,62.3,60,94.8,1201.2,12.1,23.5,103.3
+51,El Salvador,Americas,1,Step3,86.3,57.2,79,75,6.4,57,4.5,1,59.3
+52,Equatorial Guinea,Sub-Saharan Africa,0,Step4,67.6,37.6,83.7,40,0.8,30.4,6.9,0.7,42.7
+53,Eritrea,Sub-Saharan Africa,0,Step3,73.9,17.7,61,2,5.9,9.4,6.4,9,131.2
+54,Estonia,Europe,1,Step3,51.1,75.3,79.6,90,1.3,41.6,5.8,3.7,8.8
+55,Eswatini,Sub-Saharan Africa,0,Step3,,59.2,73.7,50,1.1,11.3,26.4,6.3,29.2
+56,Ethiopia,Sub-Saharan Africa,0,Step3,90.4,48.6,60.8,35,92.7,200.2,5.2,9.9,56.2
+57,Fiji,Asia-Pacific,1,Step4,71.7,63,73.5,55,0.9,8.7,6.3,3.4,46.6
+58,Finland,Europe,1,Step3,7.2,89.4,84.8,85,5.5,244,8.6,0.8,61.4
+59,France,Europe,1,Step2,3.9,81.2,79.1,75,64.8,2835.8,9.4,1.2,97
+60,Gabon,Sub-Saharan Africa,0,Step1,86.6,52.1,80,60,1.9,36.7,19.7,3,61.1
+61,Gambia,Sub-Saharan Africa,0,Step2,70.7,54,62.4,65,2.1,3.6,9.5,8,123.2
+62,Georgia,Europe,1,Step3,73.6,85.8,76,80,3.7,39.7,11.6,6,44.9
+63,Germany,Europe,1,Step3,42.3,83.3,77.9,80,82.7,4170.8,3.8,1.7,64.1
+64,Ghana,Sub-Saharan Africa,0,Step3,82,56.5,66.3,70,28.3,133.7,2.4,12.4,71.8
+65,Greece,Europe,0,Step4,23.3,74.1,79.1,55,10.8,298.7,21.5,1.1,181.9
+66,Guatemala,Americas,1,Step1,95.6,53.6,77,70,16.9,137.8,2.7,4.4,24.4
+67,Guinea,Sub-Saharan Africa,0,Step3,89.8,54.6,66.4,50,13,26.5,4.5,8.9,39.7
+68,Guinea-Bissau,Sub-Saharan Africa,0,Step3,86.7,35.9,78.1,30,1.7,3.1,6.1,1.1,42
+69,Guyana,Americas,0,Step4,69.4,59.3,76.9,55,0.8,6.3,12,2.1,50.7
+70,Haiti,Americas,0,Step3,88.3,36.2,66.5,45,11,19.9,14,14.7,31.1
+71,Honduras,Americas,0,,78.2,56.9,73,65,8.3,46.2,4.5,3.9,43.9
+72,Hong Kong,Asia-Pacific,1,Step2,90.3,96.4,86.4,90,7.4,454.9,3.1,1.5,0.1
+73,Hungary,Europe,1,Step3,31.7,61.1,81.8,80,9.8,289,4.2,2.4,69.9
+74,Iceland,Europe,1,Step3,44,88.4,81.7,85,0.3,17.6,2.8,1.8,40.9
+75,India,Asia-Pacific,0,Step4,77.3,57.1,72.4,40,1316.9,9459,3.5,3.6,70.2
+76,Indonesia,Asia-Pacific,1,Step2,91.4,69.3,77.4,45,262,3242.8,4.2,3.8,28.9
+77,Iran,Middle East and North Africa,0,Step3,89.8,62.2,60.1,5,81.4,1644.7,12.5,9.9,40.9
+78,Ireland,Europe,1,Step2,77.4,83.1,87,90,4.7,357.2,6.4,0.3,68.5
+79,Israel,Middle East and North Africa,1,Step3,52.4,71.4,86.2,75,8.7,316.5,4.3,0.2,61
+80,Italy,Europe,1,Step1,26.5,71.7,84,85,60.6,2310.9,11.2,1.3,131.5
+81,Jamaica,Americas,1,Step2,76,78,82.6,80,2.8,26.1,12.5,4.4,104.1
+82,Japan,Asia-Pacific,1,Step3,55,80.5,85.9,70,126.7,5428.8,2.8,0.5,236.4
+83,Jordan,Middle East and North Africa,1,Step4,73.4,61.8,85,70,7.1,89.1,14.9,3.3,95.6
+84,Kazakhstan,Asia-Pacific,1,Step2,83.7,73.9,70.9,50,18.2,477.6,4.9,7.4,21.2
+85,Kenya,Sub-Saharan Africa,0,Step2,77.8,55.8,72.7,55,46.7,163.1,11.5,8,55.6
+86,"Korea, South",Asia-Pacific,1,Step3,68.6,91.3,82,70,51.5,2029,3.7,1.9,39.8
+87,Kuwait,Middle East and North Africa,1,Step2,17.3,57.4,70.6,55,4.4,291.5,2.1,1.5,20.6
+88,Kyrgyz Republic,Asia-Pacific,1,Step1,54.2,73.4,74.4,60,6.3,23,,3.2,59.1
+89,Laos,Asia-Pacific,0,Step2,85.3,60.1,78.5,35,6.7,49.2,0.7,0.8,62.8
+90,Latvia,Europe,1,Step3,57.1,77.5,81.1,85,2,53.9,8.7,2.9,34.8
+91,Lebanon,Middle East and North Africa,0,Step3,75.6,47.9,78.1,60,4.5,87.7,6.6,4.5,152.8
+92,Lesotho,Sub-Saharan Africa,0,Step3,33,53.3,75,55,1.9,7,27.3,5.6,34.7
+93,Liberia,Sub-Saharan Africa,0,Step3,62.1,50.6,68.9,55,4.5,6.1,2.4,12.4,34.4
+94,Lithuania,Europe,1,Step3,65.1,75.2,84.6,80,2.8,91.2,7.1,3.7,36.5
+95,Luxembourg,Europe,1,Step4,46.6,68.8,82.6,95,0.6,62.7,5.5,2.1,23
+96,Macau,Asia-Pacific,1,Step3,90.4,60,76.5,85,0.6,71.8,2,1.2,0
+97,Macedonia,Europe,1,Step3,70,80.2,78.7,65,2.1,31,22.4,1.4,39.3
+98,Madagascar,Sub-Saharan Africa,0,Step4,91.8,47.3,72.4,55,25.6,39.7,1.8,8.1,37.3
+99,Malawi,Sub-Saharan Africa,0,Step2,70.3,41.7,65.5,50,19.2,22.4,5.9,11.5,59.3
+100,Malaysia,Asia-Pacific,1,Step2,83.2,83.9,78.6,60,32.1,930.8,3.4,3.8,54.2
+101,Maldives,Asia-Pacific,0,Step2,60.8,78.3,81,35,0.4,6.9,5,2.8,68.1
+102,Mali,Sub-Saharan Africa,0,Step2,85.4,53.8,81.6,65,18.9,41,7.9,1.8,35.6
+103,Malta,Europe,1,Step4,56.1,67.1,78.2,85,0.5,19.3,4,1.3,52.6
+104,Mauritania,Sub-Saharan Africa,0,Step4,74.2,61.9,81.2,50,3.9,17.3,9.9,2.3,91.1
+105,Mauritius,Sub-Saharan Africa,1,Step3,80.3,79.8,79.4,80,1.3,27.5,7.1,3.7,60.2
+106,Mexico,Americas,1,Step1,78.2,67.8,75.9,75,123.5,2458.4,3.4,6,54.2
+107,Moldova,Europe,0,Step1,59.1,67,73.5,55,3.5,20.1,4.5,6.6,37.7
+108,Mongolia,Asia-Pacific,0,Step4,63.1,66,77.8,50,3.1,39.7,7,4.6,91.4
+109,Montenegro,Europe,0,Step2,32.6,73.3,81.6,75,0.6,11,16.1,2.4,67.5
+110,Morocco,Middle East and North Africa,1,Step1,72.7,70.3,83.5,65,34.9,298.6,9.3,0.8,64.4
+111,Mozambique,Sub-Saharan Africa,0,Step1,66.9,57.1,65.4,35,29.5,36.7,25,15.3,102.2
+112,Namibia,Sub-Saharan Africa,0,Step4,48.9,65.8,74.4,65,2.3,26.5,23.3,6.1,46.1
+113,Nepal,Asia-Pacific,0,Step2,83.7,61.8,69.4,10,29.3,78.6,2.7,4.5,27.2
+114,Netherlands,Europe,1,Step3,42.9,81.4,84,90,17.1,916.1,4.8,1.3,56.7
+115,New Zealand,Asia-Pacific,1,Step3,50.4,91,87.5,80,4.8,188.6,4.9,1.9,26.4
+116,Nicaragua,Americas,0,,79.1,56,72.7,60,6.2,36.4,4.4,3.9,33.6
+117,Niger,Sub-Saharan Africa,0,Step4,75.6,56.3,76.7,55,18.8,21.8,0.4,2.4,46.5
+118,Nigeria,Sub-Saharan Africa,0,Step4,96.5,51.2,65,45,188.7,1118.8,7,16.5,23.4
+119,Norway,Europe,1,Step1,25.3,89.4,75.4,75,5.3,380,4.2,1.9,36.7
+120,Oman,Middle East and North Africa,1,Step1,32.5,75.2,77.7,65,4.1,186.6,3.3,1.6,44.2
+121,Pakistan,Asia-Pacific,0,Step3,87.6,56.1,72.6,55,197.3,1057,4,4.1,67.2
+122,Panama,Americas,1,Step1,85.3,73.6,79.4,75,4.1,103.9,4.5,0.9,38.2
+123,Papua New Guinea,Asia-Pacific,0,Step2,89.1,62.2,70,25,8.3,30.3,2.7,5.2,32.6
+124,Paraguay,Americas,1,Step1,78.9,61.5,72.8,75,7,68.3,4.6,3.6,25.6
+125,Peru,Americas,1,Step3,86.1,67.8,83.9,75,31.8,424.4,3.6,2.8,25.5
+126,Philippines,Asia-Pacific,1,Step4,88.7,61.3,69.6,60,105.3,875.6,2.4,3.2,37.8
+127,Poland,Europe,1,Step4,48.8,65.4,82.1,80,38,1121,4.9,2,51.4
+128,Portugal,Europe,1,Step4,35.6,79.7,83,70,10.3,313.4,8.9,1.6,125.6
+129,Qatar,Middle East and North Africa,1,Step2,56.8,71.2,78.4,60,2.7,340.6,0.1,0.4,54
+130,Romania,Europe,1,Step2,69,63.1,82.7,70,19.6,481.5,4.9,1.3,36.9
+131,Russia,Europe,0,Step4,62.3,78.4,65.1,30,144,4007.8,5.2,3.7,17.4
+132,Rwanda,Sub-Saharan Africa,1,Step4,79.4,56.2,76.1,60,11.8,24.6,1.3,4.8,40.6
+133,Saint Lucia,Americas,1,Step4,79.3,76.3,83.9,65,0.2,2.5,21,0.1,71.3
+134,Saint Vincent and the Grenadines,Americas,1,Step3,74.3,76.5,82.2,70,0.1,1.3,18.3,2,80.8
+135,Samoa,Asia-Pacific,1,Step2,62.3,77,83.5,55,0.2,1.1,8.2,1.3,49.1
+136,São Tomé and Príncipe,Sub-Saharan Africa,0,Step4,67,65.1,70.5,60,0.2,0.7,13.5,5.5,83.3
+137,Saudi Arabia,Middle East and North Africa,0,Step1,57.5,72.3,78.1,45,32.4,1773.6,5.5,-0.9,17.3
+138,Senegal,Sub-Saharan Africa,0,Step4,73.3,53.3,78.2,60,15.9,43.2,4.9,1.4,61.2
+139,Serbia,Europe,1,Step1,45.1,72.9,80,70,7,105.5,14.1,3.1,61.5
+140,Sierra Leone,Sub-Saharan Africa,0,Step4,84.4,44.9,65,60,7.4,11.5,4.5,18,58.4
+141,Singapore,Asia-Pacific,1,Step1,90.7,90.8,85.3,85,5.6,527,2,0.6,110.9
+142,Slovakia,Europe,1,Step4,46.1,61.3,78.6,75,5.4,179.4,8.1,1.3,50.4
+143,Slovenia,Europe,1,Step4,38.3,79.3,83.6,70,2.1,71.1,6.6,1.4,75.4
+144,Solomon Islands,Asia-Pacific,0,Step4,36.5,68.6,86,15,0.6,1.3,2.1,-0.4,10
+145,South Africa,Sub-Saharan Africa,0,Step3,67.6,,75.2,45,56.5,765.6,27.3,5.3,52.7
+146,Spain,Europe,1,Step1,46.2,66.8,87.5,85,46.3,1773.9,17.2,2,98.4
+147,Sri Lanka,Asia-Pacific,0,Step1,88.3,75.1,70.1,40,21.4,274.7,4.1,6.5,79.4
+148,Sudan,Sub-Saharan Africa,0,Step3,96.6,52.1,56.9,5,40.8,187,12.7,32.4,126
+149,Suriname,Americas,0,Step3,77.2,48.3,56,40,0.6,8.5,8.1,22,72.1
+150,Sweden,Europe,1,Step4,26.7,88,82,85,10.1,520.9,6.7,1.9,40.9
+151,Switzerland,Europe,1,Step3,64.8,75.4,85.2,85,8.4,517.2,4.8,0.5,42.8
+152,Taiwan ,Asia-Pacific,1,Step4,90.6,93.2,84.4,60,23.6,1185.5,3.8,0.6,35.2
+153,Tajikistan,Asia-Pacific,0,Step1,64.6,67.3,68.5,25,8.8,28.4,10.3,7.3,47.8
+154,Tanzania,Sub-Saharan Africa,0,Step4,90.3,46.6,70.4,55,50,162.2,2.2,5.3,38.2
+155,Thailand,Asia-Pacific,1,Step4,85.8,82.5,75.2,55,69.1,1233.7,1.1,0.7,41.9
+156,Timor-Leste,Asia-Pacific,0,Step3,0.9,60.5,79.5,45,1.2,6.8,3.4,0.6,0
+157,Togo,Sub-Saharan Africa,0,Step2,77,50.4,79.1,65,7.8,12.9,1.8,-0.7,78.6
+158,Tonga,Asia-Pacific,0,Step2,40.9,75.3,69.4,40,0.1,0.6,1.1,8,48
+159,Trinidad and Tobago,Americas,0,Step4,61.9,67.8,75.1,60,1.4,43,4.8,1.9,41.3
+160,Tunisia,Middle East and North Africa,0,Step2,74.4,76.7,76,45,11.5,135.4,15.4,5.3,71.3
+161,Turkey,Europe,1,Step1,65.1,66,70,70,80.8,2173.2,11.3,,28.5
+162,Turkmenistan,Asia-Pacific,0,,92,30,73.4,10,5.7,103.5,3.4,8,28.8
+163,Uganda,Sub-Saharan Africa,0,Step4,88.7,46.3,80.1,55,37.7,88.7,2.1,5.6,39
+164,Ukraine,Europe,0,Step2,46.9,66.1,58.6,35,42.3,368.8,9.5,14.4,75.6
+165,United Arab Emirates,Middle East and North Africa,1,Step2,68.8,79.9,80.9,40,10.1,686.8,1.7,2,19.5
+166,United Kingdom,Europe,1,Step2,48.2,92.9,81.2,90,66.1,2914,4.3,2.7,87
+167,United States,Americas,1,Step4,57.1,83.8,76.6,85,325.9,19390.6,4.4,2.1,107.8
+168,Uruguay,Americas,1,Step3,67.5,74.3,72.9,85,3.5,78.1,7.9,6.2,66.2
+169,Uzbekistan,Asia-Pacific,0,Step2,67.4,72.5,58.9,10,32.1,222.6,7.2,12.5,24.5
+170,Vanuatu,Asia-Pacific,0,Step1,54.1,52.4,75,65,0.3,0.8,5.2,3.1,48.4
+171,Venezuela,Americas,0,Step2,58.1,33.9,10,2,31.4,380.7,7.7,1087.5,34.9
+172,Vietnam,Asia-Pacific,0,Step2,74.1,63.5,68.9,30,93.6,647.4,2.1,3.5,58.2
+173,Zambia,Sub-Saharan Africa,0,Step4,80.1,71.1,70.3,55,17.2,68.9,7.8,6.6,62.2
+174,Zimbabwe,Sub-Saharan Africa,0,Step1,74.5,33.4,72.4,25,14.9,34,5,1.3,78.4
